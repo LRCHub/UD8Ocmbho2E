@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リリオペ",
+  "base_artist": "くろくも",
+  "createdAt": "2026-03-05T06:22:51.288767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リリオペ",
+      "artist": "くろくも",
+      "has_synced": false,
+      "path": "select/pl_01_リリオペ_くろくも.txt"
+    }
+  ]
+}
